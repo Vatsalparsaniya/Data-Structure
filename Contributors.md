@@ -6,4 +6,6 @@
 * ![Mitarth Jain](https://github.com/mitarthjain)
 * ![Travis Abel](https://github.com/Tcabel-NotGate)
 * ![Abhi](https://github.com/cruiz24)
+* ![Utkarsh Rawat](https://github.com/usrbom)
+
 
