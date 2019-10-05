@@ -8,5 +8,6 @@
 * ![Colin Bowen](https://github.com/colinbowen)
 * ![Abhi](https://github.com/cruiz24)
 * ![Utkarsh Rawat](https://github.com/usrbom)
+* ![Daksh Singh](https://github.com/Daksh-Singh)
 
 
