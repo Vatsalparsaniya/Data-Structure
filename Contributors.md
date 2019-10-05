@@ -8,5 +8,4 @@
 * ![Colin Bowen](https://github.com/colinbowen)
 * ![Abhi](https://github.com/cruiz24)
 * ![Utkarsh Rawat](https://github.com/usrbom)
-
-
+* ![Renato Britto Araújo](https://github.com/RenatoBrittoAraujo)
