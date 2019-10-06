@@ -1,0 +1,145 @@
+Enter 1 to push element
+Enter 2 to pop element
+Enter 3 for traversal
+Enter 4 to exit
+Enter your choice:1
+Enter the number:1
+ 1
+Enter 1 to push element
+Enter 2 to pop element
+Enter 3 for traversal
+Enter 4 to exit
+Enter your choice:34
+
+Enter 1 to push element
+Enter 2 to pop element
+Enter 3 for traversal
+Enter 4 to exit
+Enter your choice:1
+Enter the number:56
+ 56 1
+Enter 1 to push element
+Enter 2 to pop element
+Enter 3 for traversal
+Enter 4 to exit
+Enter your choice:1
+Enter the number:67
+ 67 56 1
+Enter 1 to push element
+Enter 2 to pop element
+Enter 3 for traversal
+Enter 4 to exit
+Enter your choice:1
+Enter the number:89
+ 89 67 56 1
+Enter 1 to push element
+Enter 2 to pop element
+Enter 3 for traversal
+Enter 4 to exit
+Enter your choice:2
+89popped
+ 67 56 1
+Enter 1 to push element
+Enter 2 to pop element
+Enter 3 for traversal
+Enter 4 to exit
+Enter your choice:3
+ 67 56 1
+Enter 1 to push element
+Enter 2 to pop element
+Enter 3 for traversal
+Enter 4 to exit
+Enter your choice:2
+67popped
+ 56 1
+Enter 1 to push element
+Enter 2 to pop element
+Enter 3 for traversal
+Enter 4 to exit
+Enter your choice:3
+ 56 1
+Enter 1 to push element
+Enter 2 to pop element
+Enter 3 for traversal
+Enter 4 to exit
+Enter your choice:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

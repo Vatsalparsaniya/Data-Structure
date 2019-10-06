@@ -1,0 +1,61 @@
+1.Insert element to queue
+2.Delete element from queue
+3.Display all elements of queue
+4.Quit
+Enter your choice : 1
+Inset the element in queue : 34
+1.Insert element to queue
+2.Delete element from queue
+3.Display all elements of queue
+4.Quit
+Enter your choice : 1
+Inset the element in queue : 56
+1.Insert element to queue
+2.Delete element from queue
+3.Display all elements of queue
+4.Quit
+Enter your choice : 1
+Inset the element in queue : 78
+1.Insert element to queue
+2.Delete element from queue
+3.Display all elements of queue
+4.Quit
+Enter your choice : 3
+Queue is :
+34 56 78
+1.Insert element to queue
+2.Delete element from queue
+3.Display all elements of queue
+4.Quit
+Enter your choice : 2
+Element deleted from queue is : 34
+1.Insert element to queue
+2.Delete element from queue
+3.Display all elements of queue
+4.Quit
+Enter your choice : 3
+Queue is :
+56 78
+1.Insert element to queue
+2.Delete element from queue
+3.Display all elements of queue
+4.Quit
+Enter your choice : 2
+Element deleted from queue is : 56
+1.Insert element to queue
+2.Delete element from queue
+3.Display all elements of queue
+4.Quit
+Enter your choice : 3
+Queue is :
+78
+1.Insert element to queue
+2.Delete element from queue
+3.Display all elements of queue
+4.Quit
+Enter your choice : 4
+
+--------------------------------
+Process exited after 28.12 seconds with return value 1
+Press any key to continue . . .
+
