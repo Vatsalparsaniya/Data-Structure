@@ -12,3 +12,4 @@
 * ![Renato Britto Araújo](https://github.com/RenatoBrittoAraujo)
 * ![Jamessom Queiroz](https://github.com/jamessom)
 * ![Gabriel Ferguson](https://github.com/Gabriel416)
+* ![Nicolai Bonde](https://github.com/neobonde)
