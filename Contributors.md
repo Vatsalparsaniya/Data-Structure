@@ -14,4 +14,5 @@
 * ![Gabriel Ferguson](https://github.com/Gabriel416)
 * ![Nicolai Bonde](https://github.com/neobonde)
 * ![Tanmay Bhagwat](https://github.com/frizzid07)
+* ![Altaha Ansari](https://github.com/altaha-ansari)
 
