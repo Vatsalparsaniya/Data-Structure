@@ -9,5 +9,6 @@
 * ![Abhi](https://github.com/cruiz24)
 * ![Utkarsh Rawat](https://github.com/usrbom)
 * ![Jamessom Queiroz](https://github.com/jamessom)
+* ![Gabriel Ferguson](https://github.com/Gabriel416)
 
 
