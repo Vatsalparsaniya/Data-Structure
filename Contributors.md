@@ -1,5 +1,4 @@
 # Contributors
-
 * ![Vatsal Parsaniya](https://github.com/Vatsalparsaniya)
 * ![Rev](https://github.com/rev44)
 * ![Himanshi Kalra](https://github.com/calra123 )
@@ -15,3 +14,4 @@
 * ![Nicolai Bonde](https://github.com/neobonde)
 * ![Tanmay Bhagwat](https://github.com/frizzid07)
 * ![Vedant Raghuwanshi](https://github.com/007vedant)
+
