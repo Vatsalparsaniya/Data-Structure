@@ -8,4 +8,10 @@
 * ![Colin Bowen](https://github.com/colinbowen)
 * ![Abhi](https://github.com/cruiz24)
 * ![Utkarsh Rawat](https://github.com/usrbom)
+* ![Daksh Singh](https://github.com/Daksh-Singh)
+* ![Renato Britto Araújo](https://github.com/RenatoBrittoAraujo)
+* ![Jamessom Queiroz](https://github.com/jamessom)
+* ![Gabriel Ferguson](https://github.com/Gabriel416)
+* ![Nicolai Bonde](https://github.com/neobonde)
 * ![Tanmay Bhagwat](https://github.com/frizzid07)
+
