@@ -9,5 +9,5 @@
 * ![Abhi](https://github.com/cruiz24)
 * ![Utkarsh Rawat](https://github.com/usrbom)
 * ![Daksh Singh](https://github.com/Daksh-Singh)
-
-
+* ![Renato Britto Araújo](https://github.com/RenatoBrittoAraujo)
+* ![Jamessom Queiroz](https://github.com/jamessom)
