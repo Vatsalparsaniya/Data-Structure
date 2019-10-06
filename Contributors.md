@@ -1,12 +1,18 @@
 # Contributors
-
 * ![Vatsal Parsaniya](https://github.com/Vatsalparsaniya)
 * ![Rev](https://github.com/rev44)
 * ![Himanshi Kalra](https://github.com/calra123 )
 * ![Mitarth Jain](https://github.com/mitarthjain)
 * ![Travis Abel](https://github.com/Tcabel-NotGate)
+* ![Colin Bowen](https://github.com/colinbowen)
 * ![Abhi](https://github.com/cruiz24)
 * ![Utkarsh Rawat](https://github.com/usrbom)
+* ![Daksh Singh](https://github.com/Daksh-Singh)
+* ![Renato Britto Araújo](https://github.com/RenatoBrittoAraujo)
+* ![Jamessom Queiroz](https://github.com/jamessom)
+* ![Gabriel Ferguson](https://github.com/Gabriel416)
+* ![Nicolai Bonde](https://github.com/neobonde)
+* ![Tanmay Bhagwat](https://github.com/frizzid07)
+* ![Vedant Raghuwanshi](https://github.com/007vedant)
 * ![Prathima B](https://github.com/prathima-b)
-
 
