@@ -10,7 +10,7 @@ For example:
 '''
 
 
-def hamming(a, b):
+def hamming(a: int, b: int) -> int:
     """Calculate the Hamming distance between two bit strings"""
     result = str(bin(a ^ b)).count('1')
     return result
