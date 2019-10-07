@@ -16,5 +16,5 @@
 * ![Altaha Ansari](https://github.com/altaha-ansari)
 * ![Vedant Raghuwanshi](https://github.com/007vedant)
 * ![Prathima B](https://github.com/prathima-b)
-
+* ![Darsh Shah](https://github.com/iamdarshshah)
 
