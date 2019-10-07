@@ -4,7 +4,7 @@ using System;
 using System.Collections;
 namespace Exemplo2
 {
-    class Program
+    class Program 
     {
         static void Main(string[] args)
         {
@@ -14,6 +14,7 @@ namespace Exemplo2
             hashtable.Add(300, "Americana");
             hashtable.Add(400, "Lins");
             hashtable.Add(500, "Catanduva");
+            
             // Exibe as chaves
             foreach (int key in hashtable.Keys)
             {
