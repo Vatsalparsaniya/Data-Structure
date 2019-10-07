@@ -12,7 +12,7 @@ public class BinarySearch {
             System.out.println("Enter the " + (i + 1) + "th element");
             arr[i] = s.nextInt();
         }
-        int ans = BinarySearch(arr, n);
+        int ans = binarySearch(arr, n);
         if (ans = -1) {
             System.out.println("Number not found");
         } else {
@@ -21,7 +21,7 @@ public class BinarySearch {
 
     }
 
-    public static int BinarySearch(int[] arr1, int data) {
+    public static int binarySearch(int[] arr1, int data) {
         int left = 0;
         int mid;
         int right = arr1.length - 1;
