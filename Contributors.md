@@ -19,3 +19,4 @@
 * ![Prathima B](https://github.com/prathima-b)
 * ![Stevhen](https://github.com/stevhens)
 * ![Shristi Raj](https://github.com/enazuma11)
+* ![Sakshi Thakur](https://github.com/sakshi0704)
