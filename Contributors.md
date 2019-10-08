@@ -14,10 +14,8 @@
 * ![Nicolai Bonde](https://github.com/neobonde)
 * ![Tanmay Bhagwat](https://github.com/frizzid07)
 * ![Altaha Ansari](https://github.com/altaha-ansari)
-* ![Vedant Raghuwanshi](https://github.com/007vedant
-* ![Ana Ferreira](https://github.com/anacdf))
+* ![Vedant Raghuwanshi](https://github.com/007vedant)
+* ![Ana Ferreira](https://github.com/anacdf)
 * ![Prathima B](https://github.com/prathima-b)
+* ![Stevhen](https://github.com/stevhens)
 * ![Shristi Raj](https://github.com/enazuma11)
-
-
-
