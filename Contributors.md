@@ -17,5 +17,6 @@
 * ![Vedant Raghuwanshi](https://github.com/007vedant)
 * ![Ana Ferreira](https://github.com/anacdf)
 * ![Prathima B](https://github.com/prathima-b)
-* ![Stevhen](https://github.com/stevhens)
-* ![Shristi Raj](https://github.com/enazuma11)
+
+
+
