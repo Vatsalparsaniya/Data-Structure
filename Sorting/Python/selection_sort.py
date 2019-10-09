@@ -1,18 +1,11 @@
-#coding: utf-8;
-
-def selection_sort(array, indice):
-	if len(array) - 1 <= 0:
-		return -1;
-	
-	minIndice = indice;
-	
-	for i in xrange(indice + 1 , len(array)):
-		if array[i] < array[minIndice]:
-			minIndice = i;
-		
-	aux = array[indice];
-	array[indice] = array[minIndice];
-	array[minIndice] = aux;
-	
-	selection_sort(array, indice + 1); 
-	return array;
+import sys 
+A = [64, 25, 12, 22, 11] 
+for i in range(len(A)):  
+	min_idx = i 
+	for j in range(i+1, len(A)): 
+		if A[min_idx] > A[j]: 
+			min_idx = j 		 
+	A[i], A[min_idx] = A[min_idx], A[i]  
+print ("Selection Sorted array:") 
+for i in range(len(A)): 
+	print("%d" %A[i])
