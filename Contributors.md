@@ -19,3 +19,5 @@
 * ![Prathima B](https://github.com/prathima-b)
 * ![Stevhen](https://github.com/stevhens)
 * ![Shristi Raj](https://github.com/enazuma11)
+* ![Prerit Khandelwal](https://github.com/preritk)
+
