@@ -23,4 +23,5 @@
 * ![Amal Roy](https://github.com/amalbros)
 * ![Prerit Khandelwal](https://github.com/preritk)
 * ![Pahulpreet Singh](https://github.com/codelixir)
+* ![Hardik Khandelwal](https://github.com/hk1997)
 
