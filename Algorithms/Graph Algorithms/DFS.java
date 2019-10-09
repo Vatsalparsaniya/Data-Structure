@@ -4,12 +4,12 @@ import java.util.*;
 
 // Graph class represents a directed graph using adjacency list
 class Graph {
-    private int num_of_vertices;
+    private int vertex_count;
     private LinkedList<Integer> adj[];  // adjacency list
 
     // parameterized constructor
     Graph(int v) {
-        num_of_vertices = v;
+        vertex_count = v;
         adj = new LinkedList[v];
         for (int i = 0; i < v; i++)
             adj[i] = new LinkedList<Integer>();
@@ -24,7 +24,7 @@ class Graph {
     // uses DFSUtil(..) for recursive calls
     void DFS(int v) {
         // mark all the vertices as not visited (set as false by default in java) 
-        boolean visited[] = new boolean[num_of_vertices];
+        boolean visited[] = new boolean[vertex_count];
 
         // Call the recursive helper function to print DFS traversal
         DFSUtil(v, visited);
