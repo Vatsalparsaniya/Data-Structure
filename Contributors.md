@@ -23,4 +23,4 @@
 * ![Amal Roy](https://github.com/amalbros)
 * ![Prerit Khandelwal](https://github.com/preritk)
 * ![Pahulpreet Singh](https://github.com/codelixir)
-
+* ![Syed Modassir Ali](https://github.com/Mudassirali2802)
