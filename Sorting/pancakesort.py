@@ -66,5 +66,3 @@ pancakeSort(arr, n);
 print ("Sorted Array ") 
 printArray(arr,n) 
 
-# This code is contributed by shreyanshi_arun. 
-
