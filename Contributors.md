@@ -20,7 +20,7 @@
 * ![Abbeyme1](https://github.com/Abbeyme1)
 * ![Stevhen](https://github.com/stevhens)
 * ![Shristi Raj](https://github.com/enazuma11)
+* ![Amal Roy](https://github.com/amalbros)
 * ![Prerit Khandelwal](https://github.com/preritk)
 * ![Pahulpreet Singh](https://github.com/codelixir)
-
 
