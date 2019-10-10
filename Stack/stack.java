@@ -1,8 +1,10 @@
+package Stack;
+
 import java.util.EmptyStackException;
 import java.util.Iterator;
 import java.util.LinkedList;
 
-public class Stack <T> implements Iterable <T> {
+class Stack <T> implements Iterable <T> {
     
     private LinkedList <T> list = new java.util.LinkedList <T>();
 
