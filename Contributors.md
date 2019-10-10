@@ -8,6 +8,7 @@
 * ![Abhi](https://github.com/cruiz24)
 * ![Utkarsh Rawat](https://github.com/usrbom)
 * ![Daksh Singh](https://github.com/Daksh-Singh)
+* ![Rohit Geddam](https://github.com/rohitgeddam)
 * ![Renato Britto Araújo](https://github.com/RenatoBrittoAraujo)
 * ![Jamessom Queiroz](https://github.com/jamessom)
 * ![Gabriel Ferguson](https://github.com/Gabriel416)
