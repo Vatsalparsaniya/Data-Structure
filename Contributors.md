@@ -15,6 +15,14 @@
 * ![Tanmay Bhagwat](https://github.com/frizzid07)
 * ![Altaha Ansari](https://github.com/altaha-ansari)
 * ![Vedant Raghuwanshi](https://github.com/007vedant)
+* ![Ana Ferreira](https://github.com/anacdf)
 * ![Prathima B](https://github.com/prathima-b)
+* ![Abbeyme1](https://github.com/Abbeyme1)
+* ![Stevhen](https://github.com/stevhens)
+* ![Shristi Raj](https://github.com/enazuma11)
+* ![Amal Roy](https://github.com/amalbros)
+* ![Prerit Khandelwal](https://github.com/preritk)
+* ![Pahulpreet Singh](https://github.com/codelixir)
 * ![Nipunika](https://github.com/Nipunnyka)
+
 
