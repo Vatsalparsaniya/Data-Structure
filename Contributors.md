@@ -24,4 +24,6 @@
 * ![Prerit Khandelwal](https://github.com/preritk)
 * ![Pahulpreet Singh](https://github.com/codelixir)
 * ![Deep Diwakar](https://github.com/deepdiwakar9)
+* ![Tarun Velagala](https://github.com/tarun1642)
+* ![Nipunika](https://github.com/Nipunnyka)
 
