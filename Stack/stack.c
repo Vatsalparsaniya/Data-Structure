@@ -7,7 +7,7 @@ void push(int s[],int n,int x){
         s[++top]=x;
     }
     else
-        printf("srtack is full\n");
+        printf("stack is full\n");
 }
 
 int pop(int s[],int n){
@@ -37,13 +37,13 @@ scanf("%d",&n);
 int s[n];
 int choise;
 printf("\n\n ------------------------------------------------------\n");
-printf("choise what do u whant\n");
+printf("Select a number\n");
 printf("1. push \n2. pop \n3. disply \n4. exit\n");
 printf("------------------------------------------------------\n");
 
 pick :
 
-printf("enter your choise : ");
+printf("enter your choice : ");
 scanf("%d",&choise);
 
 switch(choise){
