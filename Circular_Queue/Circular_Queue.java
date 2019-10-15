@@ -4,12 +4,13 @@ class Circular_Queue
     public static int front=-1;
     public static int rear=-1;
     public static int queue[] = new int[20];
-    
-    void insertQueue(int item) 
+
+    static int insertQueue(int item)
     {
-        int rear = (Circular_Queue.rear+1)mod n;
-        int front = Circular_Queue.front;
         int n =20;
+        int rear = (Circular_Queue.rear+1) % n;
+        int front = Circular_Queue.front;
+
         if(front == rear)
         {
             System.out.println("Queue is full");
@@ -25,9 +26,10 @@ class Circular_Queue
         else{
             Circular_Queue.queue[rear] = item;
         }
+        return n;
     }
 
-    int deleteQueue()
+    static int deleteQueue()
     {
         int rear = Circular_Queue.rear;
         int front = Circular_Queue.front;
@@ -38,19 +40,27 @@ class Circular_Queue
             return -1;
         }
         else{
-            front = (front+1)mod n;
-            item = Circular_Queue.queue[front];
+            front = (front+1) % n;
+            int item = Circular_Queue.queue[front];
             return item;
+        }
+    }
+
+    static void displayQueue(){
+        System.out.println("Queue is:\n ");
+        for(int i = 0; i<queue.length ; i++)
+        {
+            System.out.println(queue[i]);
         }
     }
 
 
     public static void main(String args[])
     {
-        System.out.println("Press 1. Insert in the Queue \nPress 2. Delete from the Queue \nPress 3. Exit ");
+        System.out.println("Press 1. Insert in the Queue \nPress 2. Delete from the Queue \nPress 3. Display Queue \n Press 4. Exit");
         int choice = 0;
         Scanner sc = new Scanner(System.in);
-        
+
         while(choice!= 3)
         {
             System.out.println("Enter your choice: ");
@@ -62,15 +72,17 @@ class Circular_Queue
                     int ele = sc.nextInt();
                     insertQueue(ele);
                     break;
-                
+
                 case 2:
                     deleteQueue();
                     break;
-                
                 case 3:
+                    displayQueue();
+
+                case 4:
                     System.out.println("Thank you :)");
                     break;
-            
+
                 default:
                     break;
             }
