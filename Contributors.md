@@ -27,3 +27,4 @@
 * ![Tarun Velagala](https://github.com/tarun1642)
 * ![Nipunika](https://github.com/Nipunnyka)
 * ![Harsh Singh Bais](https://github.com/harshsbais)
+* ![Alex Benavides](https://github.com/alexbena)
