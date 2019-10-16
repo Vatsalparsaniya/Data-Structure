@@ -12,10 +12,6 @@ fun selectionSort(arr: Array<Int>): Array<Int> {
         }
 
         arr[prev + 1] = key
-        arr.forEach {
-            print("$it ")
-        }
-        print("\n")
     }
     return arr
 }
