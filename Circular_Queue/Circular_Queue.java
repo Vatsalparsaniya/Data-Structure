@@ -1,54 +1,52 @@
 import java.util.Scanner;
 class Circular_Queue
 {
-    public static int front=-1;
-    public static int rear=-1;
-    public static int queue[] = new int[20];
+    public static int front= 0;
+    public static int rear= 0;
+    public static int queue[] = new int[5];
 
-    static int insertQueue(int item)
+    static void insertQueue(int item)
     {
-        int n =20;
-        int rear = (Circular_Queue.rear+1) % n;
-        int front = Circular_Queue.front;
+        int n =5;
+        Circular_Queue.rear = (Circular_Queue.rear+1) % n;
 
-        if(front == rear)
+        if(Circular_Queue.front == Circular_Queue.rear)
         {
             System.out.println("Queue is full");
-            if(rear == 0)
+            if(Circular_Queue.rear == 0)
             {
                 Circular_Queue.rear = n-1;
             }
             else{
-                Circular_Queue.rear = rear -1;
-                return -1;
+                Circular_Queue.rear = Circular_Queue.rear -1;
+
             }
         }
         else{
             Circular_Queue.queue[rear] = item;
         }
-        return n;
+
     }
 
     static int deleteQueue()
     {
-        int rear = Circular_Queue.rear;
-        int front = Circular_Queue.front;
-        int n =20;
-        if(front == rear)
+        int n = 5;
+        if(Circular_Queue.front == Circular_Queue.rear)
         {
             System.out.println("Queue is empty");
             return -1;
         }
         else{
-            front = (front+1) % n;
-            int item = Circular_Queue.queue[front];
+            Circular_Queue.front = (Circular_Queue.front+1) % n;
+            int item = Circular_Queue.queue[Circular_Queue.front];
+            Circular_Queue.queue[Circular_Queue.front] = 0;
             return item;
         }
     }
 
     static void displayQueue(){
         System.out.println("Queue is:\n ");
-        for(int i = 0; i<queue.length ; i++)
+        for(int i = 0; i<Circular_Queue.queue.length ; i++)
         {
             System.out.println(queue[i]);
         }
@@ -61,7 +59,7 @@ class Circular_Queue
         int choice = 0;
         Scanner sc = new Scanner(System.in);
 
-        while(choice!= 3)
+        while(choice!= 4)
         {
             System.out.println("Enter your choice: ");
             choice = sc.nextInt();
@@ -74,10 +72,12 @@ class Circular_Queue
                     break;
 
                 case 2:
-                    deleteQueue();
+                    int item = deleteQueue();
+                    System.out.println("Deleted Value is: " + item);
                     break;
                 case 3:
                     displayQueue();
+                    break;
 
                 case 4:
                     System.out.println("Thank you :)");
