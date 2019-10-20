@@ -28,3 +28,4 @@
 * ![Tarun Velagala](https://github.com/tarun1642)
 * ![Nipunika](https://github.com/Nipunnyka)
 * ![Harsh Singh Bais](https://github.com/harshsbais)
+* ![Vishal Yadav](https://github.com/vishal10ya)
