@@ -1,0 +1,1 @@
+Segment Tree is an advanced data structure that is very useful to solve competitive programming questions efficiently. It is a binary tree whose each node represents a range of size more than or equal to one. I have provided the code for RMQ(Range Minimum Query) but there is a wide range of queries that can be answered.
