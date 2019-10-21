@@ -1,18 +1,19 @@
-#coding: utf-8;
+import time
+import os
 
-def selection_sort(array, indice):
-	if len(array) - 1 <= 0:
-		return -1;
-	
-	minIndice = indice;
-	
-	for i in xrange(indice + 1 , len(array)):
-		if array[i] < array[minIndice]:
-			minIndice = i;
-		
-	aux = array[indice];
-	array[indice] = array[minIndice];
-	array[minIndice] = aux;
-	
-	selection_sort(array, indice + 1); 
-	return array;
+l=list(map(int,input().split()))
+n=len(l)
+
+def swap(l,hole):
+    temp=l[hole]
+    l[hole]=l[hole-1]
+    l[hole-1]=temp
+def Insertion_sort(l):
+    for i in range(0,n):
+        hole=i
+        while(hole>0 and l[hole]<l[hole-1]):
+            swap(l,hole)
+            hole-=1
+Insertion_sort(l)
+for i in l:
+    print(i,end=" ")
