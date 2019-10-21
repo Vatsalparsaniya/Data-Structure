@@ -1,5 +1,6 @@
 # Contributors
 * ![Vatsal Parsaniya](https://github.com/Vatsalparsaniya)
+* ![David Kacsor](https://github.com/DavidKacsor)
 * ![Rev](https://github.com/rev44)
 * ![Himanshi Kalra](https://github.com/calra123 )
 * ![Mitarth Jain](https://github.com/mitarthjain)
