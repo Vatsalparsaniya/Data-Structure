@@ -12,8 +12,9 @@ int fib(int n)
 int main ()
 {
   int n;
-  printf("Enter n where n in n term of Fibonacci Series:\n");
-  scanf("%d" , &n);
-  printf("The n term is: %d\n", fib(n));
+  printf("Enter n where n represent the n Fibonacci term:\n");
+  scanf("%d", &n);
+  printf("The n Fibonacci term is: %d\n", fib(n));
+
   return 0;
 }
