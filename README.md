@@ -50,5 +50,5 @@ git push origin branch-name
 6) Create a new pull request from your forked repository (Click the New Pull Request button located at the top of your repo)
 7) Wait for your PR review and merge approval!
 8) Star this repository if you had fun!
-9)
-10)
+9) add
+10)d
