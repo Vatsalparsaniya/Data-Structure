@@ -51,3 +51,4 @@ git push origin branch-name
 7) Wait for your PR review and merge approval!
 8) Star this repository if you had fun!
 9)
+10)
