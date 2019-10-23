@@ -29,6 +29,4 @@
 * ![Nipunika](https://github.com/Nipunnyka)
 * ![Harsh Singh Bais](https://github.com/harshsbais)
 * ![Shubham Dikshit](https://github.com/shubham10111)
-
-
-
+* ![Adailton Palhano](https://github.com/adailtonasp)
