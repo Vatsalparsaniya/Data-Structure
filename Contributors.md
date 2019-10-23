@@ -29,3 +29,4 @@
 * ![Nipunika](https://github.com/Nipunnyka)
 * ![Harsh Singh Bais](https://github.com/harshsbais)
 * ![Henrik Storch](https://github.com/thisisthefoxe)
+* ![Adailton Palhano](https://github.com/adailtonasp)
