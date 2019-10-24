@@ -22,7 +22,7 @@ class Sorting{
         System.out.println();
     }
     public static void main(String args[])  {
-        int arr[] = {6,1,3,5,2,4};
+        int arr[] = {5,1,3,2,4};
         System.out.println("Array before sorting: ");
         printArray(arr);
         sort(arr); 
