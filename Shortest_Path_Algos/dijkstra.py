@@ -118,7 +118,7 @@ while True:
                 else:
                     print('Edge already exists.')
  
-    elif operation == 'shortest':
+    elif operation == 'short':
         key = int(do[1])
         source = g.get_vertex(key)
         distance = dijkstra(g, source)
