@@ -5,7 +5,7 @@ int binarySearch(int arr[],int low,int high,int elem)
     int mid;
     if(low<=high)
     {
-        mid=low+(high-low)/2;
+        mid=(low+high)/2;
 //        cout<<mid<<endl;        
         if(arr[mid]==elem)
             return mid;
