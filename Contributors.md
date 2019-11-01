@@ -1,4 +1,5 @@
 # Contributors
+* ![Parth Sarthi Prasad](https://github.com/parthsarthiprasad)
 * ![Vatsal Parsaniya](https://github.com/Vatsalparsaniya)
 * ![Rev](https://github.com/rev44)
 * ![Himanshi Kalra](https://github.com/calra123 )
@@ -30,3 +31,6 @@
 * ![Harsh Singh Bais](https://github.com/harshsbais)
 * ![Adailton Palhano](https://github.com/adailtonasp)
 * ![Jaskaran](https://github.com/jsjaskaran)
+* ![Gus Uy](https://github.com/gusuy)
+* ![Chuck Underwood](https://github.com/chillieguy)
+* ![Nikita](https://github.com/Nikita-sudo)
