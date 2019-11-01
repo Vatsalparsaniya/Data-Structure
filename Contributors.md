@@ -32,3 +32,4 @@
 * ![Adailton Palhano](https://github.com/adailtonasp)
 * ![Gus Uy](https://github.com/gusuy)
 * ![Chuck Underwood](https://github.com/chillieguy)
+* ![Nikita](https://github.com/Nikita-sudo)
