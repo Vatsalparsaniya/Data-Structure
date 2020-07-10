@@ -1,4 +1,5 @@
 # Contributors
+* ![Parth Sarthi Prasad](https://github.com/parthsarthiprasad)
 * ![Vatsal Parsaniya](https://github.com/Vatsalparsaniya)
 * ![Rev](https://github.com/rev44)
 * ![Himanshi Kalra](https://github.com/calra123 )
@@ -17,6 +18,7 @@
 * ![Vedant Raghuwanshi](https://github.com/007vedant)
 * ![Ana Ferreira](https://github.com/anacdf)
 * ![Prathima B](https://github.com/prathima-b)
+* ![Varul Srivastava](https://github.com/vs666)
 * ![Abbeyme1](https://github.com/Abbeyme1)
 * ![Stevhen](https://github.com/stevhens)
 * ![Shristi Raj](https://github.com/enazuma11)
@@ -28,4 +30,8 @@
 * ![Nipunika](https://github.com/Nipunnyka)
 * ![Harsh Singh Bais](https://github.com/harshsbais)
 * ![Shubham Patil](https://github.com/shubhamdpatil)
-
+* ![Adailton Palhano](https://github.com/adailtonasp)
+* ![Jaskaran](https://github.com/jsjaskaran)
+* ![Gus Uy](https://github.com/gusuy)
+* ![Chuck Underwood](https://github.com/chillieguy)
+* ![Nikita](https://github.com/Nikita-sudo)
