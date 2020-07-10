@@ -29,6 +29,7 @@
 * ![Tarun Velagala](https://github.com/tarun1642)
 * ![Nipunika](https://github.com/Nipunnyka)
 * ![Harsh Singh Bais](https://github.com/harshsbais)
+* ![Shubham Patil](https://github.com/shubhamdpatil)
 * ![Adailton Palhano](https://github.com/adailtonasp)
 * ![Jaskaran](https://github.com/jsjaskaran)
 * ![Gus Uy](https://github.com/gusuy)
