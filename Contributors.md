@@ -35,3 +35,4 @@
 * ![Gus Uy](https://github.com/gusuy)
 * ![Chuck Underwood](https://github.com/chillieguy)
 * ![Nikita](https://github.com/Nikita-sudo)
+* ![Sayani Mallick](https://github.com/SAY-droid427)
