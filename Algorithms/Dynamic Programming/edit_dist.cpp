@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-editDist(string s1,string s2)
+void editDist(string s1,string s2)
 {
 	// for printing the minimum number of operations required
 	int n=s1.length(),m=s2.length();
