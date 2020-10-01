@@ -26,4 +26,6 @@
 * ![Deep Diwakar](https://github.com/deepdiwakar9)
 * ![Tarun Velagala](https://github.com/tarun1642)
 * ![Nipunika](https://github.com/Nipunnyka)
+* ![Amrit Anwesh](https://github.com/shinozaki1595)
+
 
