@@ -1,9 +1,9 @@
 function fizzBuzz(){
-  for(var i=1;i<=100;i++){
+	for(var i=1;i<=100;i++){
 		var s=''
-    if(i%3 === 0)
+		if(i%3 === 0)
 		{
-	  	s+='Fizz';
+			s+='Fizz';
 		}
 		if(i%5 === 0)
 		{
@@ -11,11 +11,11 @@ function fizzBuzz(){
 		}
 		if (s=='') 
 		{
-      console.log(i);
-    }
+			console.log(i);
+		}
 		else
 		{
-			 console.log(s);
+			console.log(s);
 		}
-  }
+	}
 }
