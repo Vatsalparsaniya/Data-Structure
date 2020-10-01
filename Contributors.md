@@ -36,3 +36,4 @@
 * ![Chuck Underwood](https://github.com/chillieguy)
 * ![Nikita](https://github.com/Nikita-sudo)
 * ![Rashi Singh](https://github.com/RASHI3004)
+* ![Amrit Anwesh](https://github.com/shinozaki1595)
