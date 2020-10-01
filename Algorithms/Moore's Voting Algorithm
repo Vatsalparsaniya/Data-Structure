@@ -1,0 +1,43 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+int majority_element(int arr[], int n)
+{
+    if(n == 0 || n == 1) {
+        return 0;
+    }
+    
+    int cnt = 1, temp = arr[0];
+    
+    for(int i=1;i<n;i++) {
+        if(arr[i] == temp) {
+            cnt++;
+        }
+        else {
+            temp = arr[i];
+            cnt = 1;
+        }
+    }
+    cnt > 0 ? return temp : return -1;
+}
+    
+
+int main()
+{
+    int arr[] = {1,3,3,1,2};
+    int n = sizeof(arr)/sizeof(arr[0]);
+    int candiate = majority_element(arr,n);
+    int cnt = 0;
+    for(int i=0;i<n;i++) {
+        if(arr[i] == candidate) {
+            cnt++;
+        }
+    }
+    if(cnt > n/2) {
+        cout<<"Majority Element is "<<candidate;
+    }
+    else {
+        cout<<"No majority element found";
+    }
+}
+}
