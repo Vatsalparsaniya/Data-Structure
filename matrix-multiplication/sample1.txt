@@ -1,5 +1,0 @@
-Enter number of rows and columns of first matrix:
-3 5
-Enter number of rows and columns of second matrix:
-4 6
-The matrices can't be multiplied with each other.
