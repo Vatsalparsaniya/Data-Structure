@@ -1,3 +1,4 @@
+changes by Vishal Garg
 class MyHashMap(object):
 
     def __init__(self):
