@@ -38,3 +38,4 @@
 * ![Rashi Singh](https://github.com/RASHI3004)
 * ![Amrit Anwesh](https://github.com/shinozaki1595)
 * ![Vrutansh Patel](https://github.com/vrutansh)
+* ![Rujhan Arora](https://github.com/rujhanArora)
