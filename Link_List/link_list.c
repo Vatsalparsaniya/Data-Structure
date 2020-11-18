@@ -110,7 +110,7 @@ void DELETE(struct Node **h){
 }
 
 void a_shorting(struct Node **h){
-    struct Node *temp,*c,*i,*j;
+    struct Node *temp,*i,*j;
     int temp_value;
  /*  int n=0,p,q;
     temp = *h;
@@ -170,6 +170,23 @@ void Display(struct Node**h){
     }
     }
 }
+int search(int value, struct Node**h)
+{
+    struct Node *p;
+    p = *h;
+    while(p != NULL)
+    {
+        if(p->value == value)
+        {
+            return 1;
+        }
+        else
+        {
+            p = p->ptr;
+        }
+    }
+    return 0;
+}
 
 
 int main(){
@@ -184,11 +201,12 @@ int main(){
     printf("6 for delete  Link Node\n");
     printf("7 for sorting Link list in ascending order \n");
     printf("8 for display the list\n");
-    printf("9 for Exit\n");
+    printf("9 for Search\n");
+    printf("10 for Exit\n");
     printf("Enter which type of the operation you want to apply:  ");
     scanf("%d",&n);
 
-    while(n !=9){
+    while(n !=10){
 
         switch(n){
         case 1:
@@ -222,6 +240,18 @@ int main(){
         case 8:
             Display(&HEAD);
             printf("\n");
+            break;
+        case 9:
+            printf("Enter a value to search : ");
+            scanf("%d", &value);
+            if(search(value, &HEAD) == 1)
+            {
+                printf("%d found in the list.\n\n", value);
+            }
+            else
+            {
+                printf("%d not found in the list.\n\n", value);
+            }
             break;
         default:
             printf("Enter specific value:\n");
