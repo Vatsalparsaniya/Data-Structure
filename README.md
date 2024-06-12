@@ -1,9 +1,9 @@
 # 🎃 Data-Structure Project 🎃
 
 
-Use this project to make your first contribution to an open source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!
+Use this 'project' to make your first contribution to an open source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!
 
-Celebrate [Hacktoberfest](https://hacktoberfest.digitalocean.com/) by getting involved in the open source community by completing some simple tasks in this project.
+"Celebrate" [Hacktoberfest](https://hacktoberfest.digitalocean.com/) by getting involved in the open source community by completing some simple tasks in this project.
 
 This repository is open to all members of the GitHub community. Any member may contribute to this project without being a collaborator.
 
@@ -12,7 +12,7 @@ https://github.com/Vatsalparsaniya/Data-Structure
 
 ## What is Hacktoberfest?
 
-A month-long celebration from October 1st - 31st sponsored by Digital Ocean and GitHub to get people involved in Open Source. Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
+A month-long celebration from October 1st-31st only and is sponsored by Digital Ocean and GitHub to get people involved in Open Source. Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
 
 https://hacktoberfest.digitalocean.com/
 
@@ -23,7 +23,7 @@ Here are quick and painless ways to contribute to this project:
 - Add your name to the CONTRIBUTORS.md file
 - Create Data-structure Program in a language of your choice
 
-Choose one or all , make a pull request for your work and wait for it to be merged!
+Choose one or all and begin  to make a pull request for your work and wait for it to be merged!
 
 ### check [CONTRIBUTING.md](/CONTRIBUTING.md)
 
