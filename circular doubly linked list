@@ -1,0 +1,218 @@
+#include<stdio.h>
+#include<stdlib.h>
+struct node
+{
+    struct node *next,*prev;
+    int data;
+};
+struct node *start=NULL;
+struct node *createNode()
+{
+    struct node *n;
+    n=(struct node *)malloc(sizeof(struct node));
+    n->prev=NULL;
+    n->next=NULL;
+    return(n);
+}
+void insertFirst()
+{
+    struct node *n;
+    n=createNode();
+    printf("enter the value of node");
+    scanf("%d",&n->data);
+    if(start==NULL)
+    {
+        start=n;
+        n->next=start;
+    }
+    else
+    {
+        struct node *t;
+        t=start;
+        while(t->next!=start)
+        {
+            t=t->next;
+        }
+        start->prev=n;
+        n->next=start;
+        n->prev=t;
+        start=n;
+        t->next=n;
+    }
+}
+void insertLast()
+{
+    struct node *n;
+    n=createNode();
+    printf("enter the value of node");
+    scanf("%d",&n->data);
+    if(start==NULL)
+    {
+        start=n;
+        n->next=start;
+    }
+    else
+    {
+        struct node *t;
+        t=start;
+        while(t->next!=start)
+        {
+            t=t->next;
+        }
+        n->next=start;
+        n->prev=t;
+        start->prev=n;
+        t->next=n;
+    }
+}
+void deleteLast()
+{
+    if(start==NULL)
+    {
+        printf("list is empty");
+    }
+    else
+    {
+        struct node *s,*t;
+        t=start;
+        while(t->next!=start)
+        {
+            s=t;
+            t=t->next;
+        }
+        s->next=start;
+        start->prev=s;
+        free(t);
+    }
+}
+void deleteFirst()
+{
+    if(start==NULL)
+    {
+        printf("list is empty\n");
+    }
+    else
+    {
+        struct node *t,*s;
+        s=start;
+        t=start;
+        while(t->next!=start)
+        {
+            t=t->next;
+        }
+        t->next=start->next;
+        start=start->next;
+        free(s);
+    }
+}
+void deleteValue()
+{
+    if(start==NULL)
+    {
+        printf("list is empty\n");
+    }
+    else
+    {
+        int value;
+        printf("enter the value you want to delete");
+        scanf("%d",&value);
+        struct node *t,*s,*p;
+        t=start;
+        p=start->next;
+        while(t->data!=value)
+        {
+            s=t;
+            t=t->next;
+            p=p->next;
+        }
+        s->next=t->next;
+        p->prev=s;
+        free(t);
+    }
+}
+void insertAfter()
+{
+    struct node *n;
+    n=createNode();
+    printf("enter the value of node");
+    scanf("%d",&n->data);
+    if(start==NULL)
+    {
+        start=n;
+        n->next=start;
+    }
+    else
+    {
+        struct node *t,*s;
+        int val;
+        t=start;
+        s=start->next;
+        printf("enter the value after which you want to enter the data");
+        scanf("%d",&val);
+        while(t->data!=val)
+        {
+            t=t->next;
+            s=s->next;
+        }
+        n->next=s;
+        n->prev=t;
+        t->next=n;
+        s->prev=n;
+    }
+}
+void display()
+{
+    if(start==NULL)
+    {
+        printf("list is empty\n");
+    }
+    else
+    {
+        struct node *t;
+        t=start;
+        while(t->next!=start)
+        {
+            printf("%d\n",t->data);
+            t=t->next;
+        }
+        printf("%d\n",t->data);
+    }
+}
+void main()
+{
+    int n;
+    while(n!=0)
+    {
+        printf(" 1. for insert first node \n 2. for inserting node at last \n 3. for inserting node after given value \n 4. for deleting first node \n 5. for deleting last node \n 6. for deleting node of given value \n 7. for displaying list \n 0. to exit \n enter your choice:");
+        scanf("%d",&n);
+        switch(n)
+        {
+            case 1:
+                insertFirst();
+                break;
+            case 2:
+                insertLast();
+                break;
+            case 3:
+                insertAfter();
+                break;
+            case 4:
+                deleteFirst();
+                break;
+            case 5:
+                deleteLast();
+                break;
+            case 6:
+                deleteValue();
+                break;
+            case 7:
+                display();
+                break;
+            case 0:
+                break;
+            default:
+                printf("invalid entry");
+        }
+    }
+}
+
