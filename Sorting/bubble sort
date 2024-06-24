@@ -1,0 +1,43 @@
+import java.util.Scanner;
+public class Program
+{   
+    static void sort(int arr[]){
+        
+        boolean check;
+        for(int i=0;i<arr.length-1;i++){
+            
+            check=false;
+            for(int j=0;j<arr.length-i-1;j++){
+                
+                if(arr[j]>arr[j+1]){
+                    
+                    int temp=arr[j+1];
+                    arr[j+1]=arr[j];
+                    arr[j]=temp;
+                    check=true;
+                }
+                
+            }
+            
+            if(check==false)
+            break;
+        }
+        
+        
+    }
+	public static void main(String[] args) {
+		
+		Scanner s=new Scanner(System.in);
+		System.out.println("Enter size");
+		int size=s.nextInt();
+		int arr[]=new int[size];
+		System.out.println("Enter numbers");
+		for(int i=0;i<arr.length;i++)
+		arr[i]=s.nextInt();
+		
+		sort(arr);
+		
+		for(int i=0;i<arr.length;i++)
+		System.out.print(arr[i]+" ");
+	}
+}
